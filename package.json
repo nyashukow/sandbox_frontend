@@ -1,0 +1,24 @@
+{
+  "name": "sandbox_frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
+    "@vue/composition-api": "^1.0.0-beta.20",
+    "core-js": "^3.6.5",
+    "graphql": "^15.4.0",
+    "graphql-tag": "^2.11.0",
+    "nuxt": "^2.14.6",
+    "pug": "^3.0.0",
+    "pug-plain-loader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}
